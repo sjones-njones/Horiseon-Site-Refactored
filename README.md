@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was an attempt to add accessibility to Horiseon's site. The origional site was functional but mostly used <div> tabs to separate the sections rather than semantic tags. Alternate text was also added to all pictures making the site more accessible to the vision-impared community. I learned a ton on this project. I learned about semantic html and how to group code in css to clean up the code. 
+This project was an attempt to add accessibility to Horiseon's site. The original  site was functional but mostly used <div> tabs to separate the sections rather than semantic tags. Alternate text was also added to all pictures making the site more accessible to the vision-impaired community. I learned a ton on this project. I learned about semantic html and how to group code in css to clean up the code. 
   
 ## Usage
 
