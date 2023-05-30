@@ -118,8 +118,6 @@ Be sure to add, commit, and push your work to see the most up-to-date version of
 
 * Repository follows best practices for file structure and naming conventions.
 
-* Repository contains quality README file with description, screenshot, and link to deployed application.
-
 ## Review
 
 You are required to submit the following for review:
