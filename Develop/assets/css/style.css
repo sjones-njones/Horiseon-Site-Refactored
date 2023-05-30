@@ -1,32 +1,40 @@
+/* Wildcard applies these to the entire code. Very general. */
 * {
     box-sizing: border-box;
+   /* no padding or margin for entire document */
     padding: 0;
     margin: 0;
+   /* sets the font size for entire document */
     font-size: 16px;
 }
-
 body {
+/* Sets the background color */
     background-color: #d9dcd6;
 }
 
 header {
+    /* Sets padding all the way around */
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   /* Line 20 sets the background color and Line 21 sets the font color */
     background-color: #2a607c;
     color: #ffffff;
 }
 
 header h1 {
+    /* Sets the format for the H1 header */
     display: inline-block;
     font-size: 48px;
 }
 
 header h1 span {
+    /* changes the format for the seo in the header */
     font-size: 48px;
     color: #d9dcd6;
 }
 
 header ul {
+    /* sets the paramaters for the unordered list */
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -36,58 +44,64 @@ header ul {
 }
 
 header ul li {
+    /* sets the parameters for the list items */
     display: inline-block;
     margin-left: 25px;
 }
 
 a {
+/* sets the parameters for the displayed words in the unordered list */
     color: #ffffff;
     text-decoration: none;
+    font-size: 20px;
 }
 
 .hero {
+    /* sets the parameters for the large top picture */
     height: 100%;
     width: 100%;
     margin-bottom: 25px;
 }
-
+/* sets parameters for main tag */
 main {
-    display: inline
-}
-
-main section {
-    width: 75%;
     display: inline-block;
-    margin-left: 20px;
+    width: 77%;
+}
+/*formats individual sections in main*/
+main section {
+    display: block;
     margin-bottom: 20px;
+    margin-left: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* dictates height for images in main */
 main img {
     max-height: 200px;
 }
-
+/* formats header in main */
 main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* groups the two float-left class together */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* formats the float-right id */
 #float-right {
     float: right;
     margin-left: 25px;
 }
 
 aside {
+        /* sets the parameters for the aside section */
     margin-right: 20px;
+    display: inline-block;
     padding: 20px;
     clear: both;
     float: right;
@@ -98,28 +112,30 @@ aside {
 }
 
 aside section { 
+    /* sets the parameters for the individual sections in the aside tag */
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* formats the header in the aside section */
 aside section h3 {
     margin-bottom: 10px;
     text-align: center;
+    font-size: 1.17em;
 }
-
+/* formats the images in the aside section */
 aside section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* allows footer to be viewed with this formatting */
 footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* formats the footer's text */
 footer h2 {
     font-size: 20px;
 }

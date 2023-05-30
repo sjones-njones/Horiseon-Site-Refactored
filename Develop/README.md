@@ -116,8 +116,6 @@ This Challenge is graded based on the following criteria:
 
   * Application's links all function correctly.
 
-  * Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
-
   * Application's CSS file is properly commented.
 
 ### Deployment: 32%
@@ -136,8 +134,6 @@ This Challenge is graded based on the following criteria:
 
 ### Repository Quality: 13%
 
-* Repository has a unique name.
-
 * Repository follows best practices for file structure and naming conventions.
 
 * Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
@@ -153,6 +149,3 @@ You are required to submit the following for review:
 * The URL of the deployed application.
 
 * The URL of the GitHub repository, with a unique name and a README that describes the project.
-
----
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
