@@ -33,7 +33,7 @@ header h1 span {
     color: #d9dcd6;
 }
 
-header ul {
+header nav {
     /* sets the paramaters for the unordered list */
     padding-top: 15px;
     margin-right: 20px;
@@ -43,7 +43,7 @@ header ul {
     list-style-type: none;
 }
 
-header ul li {
+header nav ul li {
     /* sets the parameters for the list items */
     display: inline-block;
     margin-left: 25px;
