@@ -6,6 +6,10 @@ This project was an attempt to add accessibility to Horiseon's site. The origina
   
 ## Usage
 
+https://sjones-njones.github.io/Horiseon-Site-Refactored/
+
+https://github.com/sjones-njones/Horiseon-Site-Refactored.git
+
 ![image](https://github.com/sjones-njones/Horiseon-Site-Refactored/assets/132145599/cc7ce4be-8802-4f53-89e9-8c6024b42d26)
 ![image](https://github.com/sjones-njones/Horiseon-Site-Refactored/assets/132145599/86cb8aa4-e0b4-4171-86eb-e843c3794b9b)
 ![image](https://github.com/sjones-njones/Horiseon-Site-Refactored/assets/132145599/d7a8a3c0-37df-472e-bd4f-4bb41b4ee3e1)
